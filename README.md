@@ -1,2 +1,2 @@
-# JW_Player_Generate_RSS_Playlist_From_DIR
-JW Playlist Generator From DIR
+# JW PlayervPlaylist Generator From DIR
+ADD ANY MEDIA ON /media/ DIR AND GENERATE XML PLAYLIST (Generate_RSS_Playlist.php) OR RUN PLAYERS TO PLAY
